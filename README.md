@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeynepcaysar
 - 👀 I’m interested in data analysis, data science and programming.
-- 🌱 I’m a master student majoring in Information Systems with a Data Science minor in the University of Zurich.
+- 🌱 I’m a master student majoring in Information Systems with a Data Science minor at the University of Zurich.
 - 💃🏻 You can find here the portfolio of my projects.
 
 
